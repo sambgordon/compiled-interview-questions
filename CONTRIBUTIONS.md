@@ -22,7 +22,7 @@ Issues will be kept track of as normal. However, if you wish to you can cross th
 ## Current Issues
 
 * Provide translations
-* Provide simple markup navigation
+* Provide simple markdown navigation
 
 # Formatting
-This guide follows typical markup formatting. Please adhere to the already existing formatting presented in the documents.
+This guide follows typical markdown formatting. Please adhere to the already existing formatting presented in the documents.
