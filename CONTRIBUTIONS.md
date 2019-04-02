@@ -4,13 +4,13 @@ If you make pull requests, please provide a detailed description of the changes 
 
 Prefix your branch names with the following:
 
-`add-answer` - Use when you've added an answer to a pre-existing question.
+`add-answer` - Use when you've added an answer to a pre-existing question
 
-`add-question` - Use when you've added a new question.
+`add-question` - Use when you've added a new question
 
-`typo` - Use for minor spelling errors and as well as grammatical improvements .
+`typo` - Use for minor spelling errors and as well as grammatical improvements
 
-`other` - Any other changes to be made.
+`other` - Any other changes to be made
 
 Then specify the file or files you've made the updates to.
 
