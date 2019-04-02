@@ -12,7 +12,7 @@ Prefix your branch names with the following:
 
 `other` - Any other changes to be made
 
-
+<br />
 Then specify the file or files you've made the updates to.
 
 Example: `add-question-javascript-[nameofchange]`.
