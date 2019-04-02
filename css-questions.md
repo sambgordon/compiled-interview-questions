@@ -1,5 +1,3 @@
-<style>.head{ color: #cfffe3 ; }</style>
-
 # CSS Questions
 
 <div class="head">
