@@ -1,5 +1,3 @@
-<style> .head{ color: #70ffe6; } </style>
-
 # Javascript Questions
 
 <div class="head">
