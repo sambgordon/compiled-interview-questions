@@ -10,7 +10,7 @@ Prefix your branch names with the following:
 
 `typo` - Use for minor spelling errors and as well as grammatical improvements .
 
-`other` - Any other changes to be made
+`other` - Any other changes to be made.
 
 Then specify the file or files you've made the updates to.
 
