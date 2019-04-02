@@ -1,6 +1,3 @@
-<style>.head{ color: #d50c5a; }</style>
-<style>.head-2{ color: #d50c5a; }</style>
-
 # HTML Questions
 
 <div class="head">
