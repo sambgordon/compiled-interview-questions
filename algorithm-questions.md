@@ -1,7 +1,3 @@
-<style>.head{ color: #fcf101; }
-.body{ color: #2491f2; font-weight: bold; }
-</style>
-
 # Algorithm Questions
 
 <div class="head">
