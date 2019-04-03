@@ -4,9 +4,9 @@ If you make pull requests, please provide a detailed description of the changes 
 
 Prefix your branch names with the following:
 
-`add-answer` - Use when you've added an answer to a pre-existing question
+`addanswer` - Use when you've added an answer to a pre-existing question
 
-`add-question` - Use when you've added a new question
+`addquestion` - Use when you've added a new question
 
 `typo` - Use for minor spelling errors and as well as grammatical improvements
 
@@ -15,7 +15,7 @@ Prefix your branch names with the following:
 <br />
 Then specify the file or files you've made the updates to.
 
-Example: `add-question-javascript-[nameofchange]`.
+Example: `addquestion-javascript-[nameofchange]`.
 
 
 # Issues
